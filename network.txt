@@ -1,0 +1,3 @@
+My IP address is 10.0.2.15.
+
+Ubuntu is my os version.
